@@ -3,7 +3,7 @@ public class Prueba{
 	
 		System.out.println("Mi deporte favorito es el futbol");
 		System.out.println("Mi lugar favorito es Cangas");
-		
+		System.out.println("Instagram");
 	}
 	
 }
